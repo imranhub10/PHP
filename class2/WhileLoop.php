@@ -14,11 +14,10 @@
     }while($i<=10);
 
 //Odd Number by while Loop//
-/*     $i=1;
-    while($i%2 !=0){
-        $i<=10;
+ /*    $i=1;
+    while($i<=10){
         echo $i."<br>";
-        if($i%2 !=0);
+        $i;
         $i++;
     } */
 ?>

@@ -18,9 +18,9 @@
 
 //There is given the radius of a circle. Find the area, circumference of it. (Use π as a....//
     $r = 2.5;
-    $a = 3.1416;
-    $area = $a * $r * $r;
-    $c = 2 * $a * $r;
+    define('PI',3.1416);
+    $area = PI * $r * $r;
+    $c = 2 * PI * $r;
     echo "Area is: ",$area;
     echo "<br>";
     echo "Circumference is: ",$c;

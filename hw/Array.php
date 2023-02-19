@@ -5,12 +5,12 @@
     echo "<br>";
     echo $city[2];
 
-//Associative Arrays//
+//Associative Array//
     $run = array("Tamim"=>55, "Asif"=>22, "Rakib"=>58);
     echo "<br>";
     echo $run["Rakib"];
 
-//Multidimensional Arrays//
+//Multidimensional Array//
     $student = array(
         array("Ashif", 22),
         array("Imran", 24),

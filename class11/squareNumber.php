@@ -1,5 +1,5 @@
 <?php
-    $num = 80;
+    $num = 65;
     $sqrt = sqrt($num);
     
     if($sqrt == round($sqrt))
